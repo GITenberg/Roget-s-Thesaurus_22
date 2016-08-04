@@ -1,0 +1,26 @@
+_repo: Roget-s-Thesaurus_22
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roget, Peter Mark
+    birthdate: 1779
+    deathdate: 1869
+    gutenberg_agent_id: '20'
+    url: http://www.gutenberg.org/2009/agents/20
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Roget
+description: ''
+gutenberg_bookshelf: Reference
+gutenberg_issued: '1991-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Synonyms and antonyms'
+- !lcc 'PE'
+- GITenberg
+title: Roget's Thesaurus
+url: http://www.gutenberg.org/ebooks/22
